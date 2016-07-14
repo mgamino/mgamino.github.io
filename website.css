@@ -8,3 +8,44 @@ h1{
   font-family: "Palatino Linotype", "Book Antiqua", serif;
   font-color: violet;
 }
+
+h2{
+  font-family: "Palatino Linotype", "Book Antiqua", serif;
+  font-color: white;
+
+}
+
+div#banner {
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: cornflowerblue;
+  width: 100%;
+}
+div#banner-content {
+  height: 70px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #000;
+ }
+
+table {
+   padding-top: 80px;
+   width: 95%;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+td{
+  height: 30%
+}
